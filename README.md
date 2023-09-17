@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=pink&up_message=my%20resume&url=https%3A%2F%2Fpooriya1998.github.io%2F)](https://pooriya1998.github.io)
 
 <p align="center">
-<img src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p></img>
+<iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
 </p>
 
 <p align="left"> Pooriya Rahimzadeh is an accomplished information technology expert and a dedicated graduate student specializing in artificial intelligence and robotics. He possesses a strong enthusiasm for backend development and artificial intelligence and is driven by a deep desire to continuously expand his knowledge and expertise in these domains. </p>
