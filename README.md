@@ -39,6 +39,7 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="pooriyarahimzadeh"/>
 </a>
 
-<h3 align="left">States:</h3>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=%3E+States)](https://git.io/typing-svg)
+
 
 ![Pooriya1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pooriya1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
