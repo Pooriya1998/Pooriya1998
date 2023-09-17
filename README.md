@@ -23,7 +23,7 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="mailto:rahimzadehpooriya@yahoo.com">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="rahimzadehpooriya@yahoo.com"/>
 </a>
