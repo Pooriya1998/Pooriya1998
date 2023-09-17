@@ -40,6 +40,6 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 </a>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=%3E+States)](https://git.io/typing-svg)
-
+<br>
 
 ![Pooriya1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pooriya1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
