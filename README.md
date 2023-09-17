@@ -30,6 +30,7 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=%3E+Connect+with+me)](https://git.io/typing-svg)
 
+
 <p align="left">
 <a href="mailto:rahimzadehpooriya@yahoo.com">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="rahimzadehpooriya@yahoo.com"/>
