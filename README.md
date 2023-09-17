@@ -25,6 +25,8 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pooriyarahimzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooriyarahimzadeh" height="25" width="35" /></a>
-<img width="35" height="35" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/>
+<a href="rahimzadehpooriya@yahoo.com">
+<img width="35" height="35" src="https://img.icons8.com/fluency/48/new-post.png" alt="rahimzadehpooriya@yahoo.com"/>
+</a>
 
 
