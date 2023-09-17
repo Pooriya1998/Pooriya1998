@@ -2,7 +2,6 @@
 
 <h3 align="center"> Back-End and AI Developer </h3>
 
-
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=I'm+Pooriya+Rahimzadeh;%3E+Computer+Engineer;%3E+AI+Developer;%3E+Back-End+Developer)](https://git.io/typing-svg)
 
 ![Visitor count](https://komarev.com/ghpvc/?username=pooriya1998&color=green)
