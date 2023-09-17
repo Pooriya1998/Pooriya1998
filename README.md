@@ -22,6 +22,7 @@ Passionate about artificial intelligence, Pooriya has acquired valuable experien
 Moreover, Pooriya has also undertaken a project focused on regression analysis,  in the diagnosis and prediction of house prices. </p>
 
 <br>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=%3E+Connect+with+me)](https://git.io/typing-svg)
 
 <p align="left">
