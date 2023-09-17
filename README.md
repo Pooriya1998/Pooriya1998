@@ -4,8 +4,10 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05B300&width=435&lines=I'm+Pooriya+Rahimzadeh;%3E+Computer+Engineer;%3E+AI+Developer;%3E+Back-End+Developer)](https://git.io/typing-svg)
 
+
 ![Visitor count](https://komarev.com/ghpvc/?username=pooriya1998&color=green)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=pink&up_message=my%20resume&url=https%3A%2F%2Fpooriya1998.github.io%2F)](https://pooriya1998.github.io)
+
 
 <p align="center">
 <img src="https://github.com/Pooriya1998/Pooriya1998/assets/98259649/a79078fe-67c5-42ae-a497-0776558abd90" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></img>
