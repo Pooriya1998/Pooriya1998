@@ -8,3 +8,6 @@
 <p align="left"> 
 Passionate about artificial intelligence, Pooriya has acquired valuable experience in regression and image processing. His undergraduate thesis project involved developing a desktop-based face recognition software, highlighting its potential applications in software security (utilized as a software lock) and its ability to recognize facial features and make modifications. Pooriya received a perfect score of 20 out of 20 for this project from Islamic Azad University, Najaf Abad branch.
 Moreover, Pooriya has also undertaken a project focused on regression analysis,  in the diagnosis and prediction of house prices. </p>
+
+
+![Visitor count](https://komarev.com/ghpvc/?username=pooriya1998&color=green)
