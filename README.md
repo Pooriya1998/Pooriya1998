@@ -39,3 +39,6 @@ Moreover, Pooriya has also undertaken a project focused on regression analysis, 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="pooriyarahimzadeh"/>
 </a>
 
+<h3 align="left">States:</h3>
+
+![Pooriya1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pooriya1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
