@@ -22,7 +22,8 @@ Passionate about artificial intelligence, Pooriya has acquired valuable experien
 Moreover, Pooriya has also undertaken a project focused on regression analysis,  in the diagnosis and prediction of house prices. </p>
 
 
-<h3 align="left">Connect with me:</h3>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
+
 <p align="left">
 <a href="mailto:rahimzadehpooriya@yahoo.com">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="rahimzadehpooriya@yahoo.com"/>
