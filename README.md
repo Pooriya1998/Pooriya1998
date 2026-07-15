@@ -19,6 +19,3 @@ I'm a Python developer transitioning into Machine Learning and Deep Learning. I'
 
 ## 📫 Reach me
 [![Email](https://img.icons8.com/fluency/48/mail--v1.png)](mailto:rahimzadehpooriya@yahoo.com) [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/pooriyarahimzadeh)
-
-## 📊 GitHub Stats
-![Pooriya1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pooriya1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
